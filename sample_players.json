@@ -1,0 +1,187 @@
+{
+    "players": [
+        {
+            "name": "John Doe",
+            "overall": 4.5,
+            "position": "ATT"
+        },
+        {
+            "name": "Mike Smith",
+            "overall": 3.8,
+            "position": "DEF"
+        },
+        {
+            "name": "Alex Johnson",
+            "overall": 2.7,
+            "position": "MID"
+        },
+        {
+            "name": "James Brown",
+            "overall": 4.2,
+            "position": "ATT"
+        },
+        {
+            "name": "Carlos Silva",
+            "overall": 3.5,
+            "position": "MID"
+        },
+        {
+            "name": "Robert Lee",
+            "overall": 2.9,
+            "position": "DEF"
+        },
+        {
+            "name": "David Kim",
+            "overall": 3.3,
+            "position": "MID"
+        },
+        {
+            "name": "Tom White",
+            "overall": 2.5,
+            "position": "ATT"
+        },
+        {
+            "name": "Lucas Santos",
+            "overall": 4.7,
+            "position": "DEF"
+        },
+        {
+            "name": "Pedro Gomes",
+            "overall": 3.6,
+            "position": "MID"
+        },
+        {
+            "name": "Marcus Allen",
+            "overall": 4.1,
+            "position": "ATT"
+        },
+        {
+            "name": "Felipe Costa",
+            "overall": 3.4,
+            "position": "DEF"
+        },
+        {
+            "name": "Bruno Fernandes",
+            "overall": 4.8,
+            "position": "MID"
+        },
+        {
+            "name": "Gabriel Jesus",
+            "overall": 3.9,
+            "position": "ATT"
+        },
+        {
+            "name": "Thiago Silva",
+            "overall": 4.6,
+            "position": "DEF"
+        },
+        {
+            "name": "Paul Wilson",
+            "overall": 2.8,
+            "position": "MID"
+        },
+        {
+            "name": "Jack Thompson",
+            "overall": 3.2,
+            "position": "ATT"
+        },
+        {
+            "name": "Chris Martin",
+            "overall": 2.6,
+            "position": "DEF"
+        },
+        {
+            "name": "Kevin De Silva",
+            "overall": 4.3,
+            "position": "MID"
+        },
+        {
+            "name": "Leo Martinez",
+            "overall": 3.7,
+            "position": "ATT"
+        },
+        {
+            "name": "Daniel Johnson",
+            "overall": 2.4,
+            "position": "DEF"
+        },
+        {
+            "name": "Ryan Cooper",
+            "overall": 3.1,
+            "position": "MID"
+        },
+        {
+            "name": "Mohammed Ali",
+            "overall": 4.4,
+            "position": "ATT"
+        },
+        {
+            "name": "Sam Phillips",
+            "overall": 2.3,
+            "position": "DEF"
+        },
+        {
+            "name": "Diego Torres",
+            "overall": 3.8,
+            "position": "MID"
+        },
+        {
+            "name": "Luke Brown",
+            "overall": 2.9,
+            "position": "ATT"
+        },
+        {
+            "name": "Marco Rossi",
+            "overall": 4.5,
+            "position": "DEF"
+        },
+        {
+            "name": "Andre Santos",
+            "overall": 3.4,
+            "position": "MID"
+        },
+        {
+            "name": "Tim Howard",
+            "overall": 2.7,
+            "position": "ATT"
+        },
+        {
+            "name": "Victor Lima",
+            "overall": 3.6,
+            "position": "DEF"
+        },
+        {
+            "name": "Ricardo Pereira",
+            "overall": 4.2,
+            "position": "MID"
+        },
+        {
+            "name": "Thomas Mueller",
+            "overall": 3.9,
+            "position": "ATT"
+        },
+        {
+            "name": "David Luiz",
+            "overall": 2.8,
+            "position": "DEF"
+        },
+        {
+            "name": "Juan Mata",
+            "overall": 3.5,
+            "position": "MID"
+        },
+        {
+            "name": "Peter Wright",
+            "overall": 3.3,
+            "position": "ATT"
+        },
+        {
+            "name": "Sergio Torres",
+            "overall": 3.2,
+            "position": "DEF"
+        }
+    ],
+    "num_teams": 2,
+    "time_limit": 30,
+    "num_attempts": 5
+} 
